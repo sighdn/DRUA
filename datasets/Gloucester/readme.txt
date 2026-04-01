@@ -1,0 +1,1 @@
+This dataset was introduced in the following paper：A Fractal Projection and Markovian Segmentation-Based Approach for Multimodal Change Detection
